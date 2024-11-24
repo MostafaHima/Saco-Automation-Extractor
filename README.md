@@ -1,3 +1,5 @@
+# SacoAutomationExtractor (Selenium Scraper)
+
 The SacoAutomationExtractor project is an automation tool developed using Selenium to scrape product data from saco.sa. The goal of this project is to simplify the collection of information like product links, prices, and availability from the website.
 
 Features:
@@ -22,9 +24,6 @@ The tool will start scraping data from the website and save it in a file.
 
 
 
-
-
-# SacoAutomationExtractor (Selenium Scraper)
 
 ## بالعربية
 مشروع **SacoAutomationExtractor** هو أداة أتمتة تم تطويرها باستخدام **Selenium** لاستخراج بيانات المنتجات من موقع **saco.sa**. الهدف من المشروع هو تسهيل جمع المعلومات مثل الروابط، الأسعار، والتوافر للمنتجات عبر الموقع.
